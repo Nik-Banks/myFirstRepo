@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **nikolascbanks@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3> <p>nikolascbanks@gmail.com</p>
 <p align="left">
 </p>
 
